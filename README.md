@@ -28,7 +28,8 @@ git push origin master
 
       `git clone https://github.com/<gitHubUserName>/join-dev-design.git`
 
-3. **Set up a new upsteam remote** (for pulling updates from Microsoft's repo to your local version)
+3. **Set up a new upsteam remote**
+   - For pulling updates from Microsoft's repo to your local repo
 
       `git remote add upstream https://github.com/Microsoft/join-dev-design.git`
       
@@ -41,5 +42,5 @@ git push origin master
    
       `git push origin master`
 
-5. **Pull request** (personal repo into Microsoft repo)
+5. **Pull request** - personal repo into Microsoft repo
    - base fork: Microsoft/join-dev-design ⬅ head fork: userName/join-dev-design
