@@ -15,8 +15,8 @@ git remote add upstream https://github.com/Microsoft/join-dev-design.git
 ```
 git pull upstream master
 ```
-   - Check that your changes are working
-   - Add, commit & push (to your personal github repo)
+    - Check that your changes are working
+    - Add, commit & push (to your personal github repo)
 ```
 git push origin master
 ```
