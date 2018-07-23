@@ -6,7 +6,7 @@
 git clone https://github.com/<gitHubUserName>/join-dev-design.git
 ```
 
-3. **Set up a new upsteam remote (for pulling updates from Microsoft's repo to your local version)
+3. **Set up a new upsteam remote** (for pulling updates from Microsoft's repo to your local version)
 ```
 git remote add upstream https://github.com/Microsoft/join-dev-design.git
 ```
