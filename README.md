@@ -14,33 +14,30 @@ There's a [Figma file](https://www.figma.com/file/Nkddv9KabDaTFtqZ5vlSzUxr/Devel
 
 ## Git Contributions Instructions
 
-1.  **Fork this repo**
-2.  **Clone your forked repo**
-
+1.  **Fork this repo & clone your forked repo**
+2.  **Set up a new upsteam remote** - to pull updates from Microsoft repo
     ```
-    git clone https://github.com/<gitHubUserName>/join-dev-design.git
+    git remote add upstream https://github.com/Microsoft/join-dev-design.git
     ```
 
-3.  **Set up a new upsteam remote** - to pull updates from Microsoft's repo to your local
-
-      ```
-      git remote add upstream https://github.com/Microsoft/join-dev-design.git
-      ```
-
-4.  **Pushing a change**
+3.  **Improve a small part of the code & keep updating**
 
     - To avoid merge conflicts, change a small part of the code
-    - And constantly pull Microsoft's/upstream latest updates
-
+    - And constantly pull upstream's latest updates
       ```
       git pull upstream master
       ```
-
-    - Check that your changes are working
-    - Push to your personal github repo
+      
+4.  **Push your changes** - to your personal github repo
+      ```
+      git push origin master
+      ```
 
 5.  **Pull request** - personal repo into Microsoft repo
     - base fork: Microsoft/join-dev-design ⬅ head fork: userName/join-dev-design
+    
+    
+    
     
     
 ## Git Contributions Instructions
