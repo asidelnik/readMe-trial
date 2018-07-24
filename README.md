@@ -32,16 +32,12 @@ There's a [Figma file](https://www.figma.com/file/Nkddv9KabDaTFtqZ5vlSzUxr/Devel
     - To avoid merge conflicts, change a small part of the code
     - And constantly pull Microsoft's/upstream latest updates
 
-  ```
-  git pull upstream master
-  ```
+      ```
+      git pull upstream master
+      ```
 
     - Check that your changes are working
     - Push to your personal github repo
-
-  ```
-  git push origin master
-  ```
 
 5.  **Pull request** - personal repo into Microsoft repo
     - base fork: Microsoft/join-dev-design ⬅ head fork: userName/join-dev-design
