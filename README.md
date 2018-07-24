@@ -13,8 +13,7 @@ There's a [Figma file](https://www.figma.com/file/Nkddv9KabDaTFtqZ5vlSzUxr/Devel
 
 
 ## Git Contributions Instructions
-
-###### For GitHub Open Source project
+###### Specifically for a GitHub Open Source project like this
 
 1.  **Fork this repo & clone your forked repo**
 2.  **Set up a new upsteam remote** - to pull updates from Microsoft repo
